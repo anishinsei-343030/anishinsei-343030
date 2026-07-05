@@ -122,4 +122,8 @@ The goal isn't simply to create AI assistants—it's to build a digital family c
 
 ### 🌸 Welcome to my journey of building the Nexaris AI Family.
 
+---
+
+<img src="./AniShinSei.png" alt="AniShinSei" width="300" style="border-radius: 10px;">
+
 </div>
